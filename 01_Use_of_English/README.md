@@ -33,3 +33,29 @@
 | **In spite of** | A pesar de | ***In spite of** the noise, I slept well.* | Always use **"of"** + Noun/-ing. |
 | **Furthermore** | Además | *It's cheap. **Furthermore**, it's fast.* | Adds formal information. |
 | **Nevertheless** | Sin embargo | *It was hard; **nevertheless**, we won.* | Formal contrast. |
+
+---
+
+###  Word Formation Table
+
+| Base Word | Noun | Verb | Adjective | Adverb |
+| :--- | :--- | :--- | :--- | :--- |
+| **Impress** | Impression | Impress | Impressive | Impressively |
+| **Child** | Child / Childhood | — | Childish | Childishly |
+| **Arrive** | Arrival | Arrive | — | — |
+| **Comfort** | Comfort | Comfort | Comfortable | Comfortably |
+| **Agree** | Agreement | Agree | Agreeable | Agreeably |
+| **Explore** | Exploration / Explorer | Explore | Exploratory | — |
+| **Accept** | Acceptance | Accept | Acceptable | Acceptably |
+| **Involve** | Involvement | Involve | Involved / Involving | — |
+| **Attract** | Attraction | Attract | Attractive | Attractively |
+| **Conscious** | Consciousness | — | Conscious | Consciously |
+| **Friend** | Friend / Friendship | — | Friendly | — |
+| **Hope** | Hope | Hope | Hopeful / Hopeless | Hopefully / Hopelessly |
+| **Threat** | Threat | Threaten | Threatening | Threateningly |
+
+---
+
+## Refactoring Notes
+* **Friendly:** Aunque termina en *-ly*, funciona como adjetivo (e.g., *User-friendly interface*).
+* **Threaten:** Verbo esencial para reportes de incidentes (e.g., *The malware threatens the server integrity*).
