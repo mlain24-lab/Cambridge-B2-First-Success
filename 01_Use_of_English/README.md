@@ -36,25 +36,31 @@
 
 ---
 
-###  Word Formation Table
+### Word Formation Table
 
 | Base Word | Noun | Verb | Adjective | Adverb |
 | :--- | :--- | :--- | :--- | :--- |
 | **Impress** | Impression | Impress | Impressive | Impressively |
-| **Child** | Child / Childhood | — | Childish | Childishly |
-| **Arrive** | Arrival | Arrive | — | — |
+| **Child** | Child / Childhood (**Infancia**) | — | Childish (**Infantil**) | Childishly (**Infantilmente**) |
+| **Arrive** | Arrival (**Llegada**) | Arrive | — | — |
 | **Comfort** | Comfort | Comfort | Comfortable | Comfortably |
-| **Agree** | Agreement | Agree | Agreeable | Agreeably |
+| **Agree** | Agreement | Agree | Agreeable (**Agradable**) | Agreeably |
 | **Explore** | Exploration / Explorer | Explore | Exploratory | — |
-| **Accept** | Acceptance | Accept | Acceptable | Acceptably |
-| **Involve** | Involvement | Involve | Involved / Involving | — |
+| **Accept** | Acceptance (**Aceptación**) | Accept | Acceptable | Acceptably |
+| **Involve** | Involvement (**Implicación**) | Involve | Involved / Involving (**Involucrado**) | — |
 | **Attract** | Attraction | Attract | Attractive | Attractively |
-| **Conscious** | Consciousness | — | Conscious | Consciously |
-| **Friend** | Friend / Friendship | — | Friendly | — |
-| **Hope** | Hope | Hope | Hopeful / Hopeless | Hopefully / Hopelessly |
-| **Threat** | Threat | Threaten | Threatening | Threateningly |
+| **Conscious** | Consciousness (**Consciencia**) | — | Conscious | Consciously |
+| **Friend** | Friend / Friendship | — | Friendly (**Amistoso**) | — |
+| **Hope** | Hope | Hope | Hopeful (**Optimista**) / Hopeless (**Desesperanzado**) | Hopefully / Hopelessly |
+| **Threat** | Threat | Threaten (**Amenazar**) | Threatening | Threateningly |
 
 ---
+
+## Technical Context Notes
+* **Childhood / Child:** En administración de sistemas, recuerda el concepto de **Child Process** (proceso hijo).
+* **Arrival:** Utilizado en análisis de red para el **Packet Arrival Rate** (tasa de llegada de paquetes).
+* **Acceptance:** Crucial en entornos corporativos para el **UAT** (*User Acceptance Testing*).
+* **Threaten:** Verbo fundamental en ciberseguridad para describir acciones de **Threat Actors** (actores de amenazas).
 
 ## Refactoring Notes
 * **Friendly:** Aunque termina en *-ly*, funciona como adjetivo (e.g., *User-friendly interface*).
