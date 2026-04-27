@@ -63,19 +63,29 @@ Combinaciones fijas de verbos y sustantivos que dan naturalidad al lenguaje.
 ## 4. Word Formation & Morphology (Suffixes)
 Cómo transformar palabras raíz en sustantivos o adjetivos técnicos.
 
-| Root Word | Formed Word | Type | Technical Meaning |
-| :--- | :--- | :--- | :--- |
-| **Profession** | **Professionalism** | Noun | Profesionalismo. |
-| **Scale** | **Scalable** | Adj | Escalable (infraestructura expandible). |
-| **Confident** | **Confidentiality** | Noun | Confidencialidad (CIA Triad). |
-| **Implement** | **Implementation** | Noun | Implementación / Puesta en marcha. |
-| **Rely** | **Reliability** | Noun | Fiabilidad del sistema. |
-| **Accept** | **Unacceptable** | Adj | Inaceptable (uso de prefijo negativo 'un-'). |
-| **Accurate** | **Accuracy** | Noun | Precisión de los datos. |
-| **Stable** | **Stability** | Noun | Estabilidad del entorno. |
-| **Origin** | **Originator** | Noun | Autor o creador del ataque/proceso. |
-| **Familiar** | **Familiarity** | Noun | Familiaridad o conocimiento previo. |
-| **Solve** | **Solution** | Noun | Solución técnica. |
+| Base Word | Noun | Verb | Adjective | Adverb |
+| :--- | :--- | :--- | :--- | :--- |
+| **Impress** | Impression | Impress | Impressive | Impressively |
+| **Child** | Child / Childhood (**Infancia**) | — | Childish (**Infantil**) | Childishly (**Infantilmente**) |
+| **Arrive** | Arrival (**Llegada**) | Arrive | — | — |
+| **Comfort** | Comfort | Comfort | Comfortable | Comfortably |
+| **Agree** | Agreement | Agree | Agreeable (**Agradable**) | Agreeably |
+| **Explore** | Exploration / Explorer | Explore | Exploratory | — |
+| **Accept** | Acceptance (**Aceptación**) | Accept | Acceptable | Acceptably |
+| **Involve** | Involvement (**Implicación**) | Involve | Involved / Involving (**Involucrado**) | — |
+| **Attract** | Attraction | Attract | Attractive | Attractively |
+| **Conscious** | Consciousness (**Consciencia**) | — | Conscious | Consciously |
+| **Friend** | Friend / Friendship | — | Friendly (**Amistoso**) | — |
+| **Hope** | Hope | Hope | Hopeful (**Optimista**) / Hopeless (**Desesperanzado**) | Hopefully / Hopelessly |
+| **Threat** | Threat | Threaten (**Amenazar**) | Threatening | Threateningly |
+
+---
+
+## Technical Context Notes
+* **Childhood / Child:** En administración de sistemas, recuerda el concepto de **Child Process** (proceso hijo).
+* **Arrival:** Utilizado en análisis de red para el **Packet Arrival Rate** (tasa de llegada de paquetes).
+* **Acceptance:** Crucial en entornos corporativos para el **UAT** (*User Acceptance Testing*).
+* **Threaten:** Verbo fundamental en ciberseguridad para describir acciones de **Threat Actors** (actores de amenazas).
 
 ---
 
@@ -125,3 +135,37 @@ Términos clave extraídos de ejercicios y notas marginales.
 | **Encrypt** | Cifrar | Proceso de codificación de datos. |
 | **Audit** | Auditoría | Evaluación de la seguridad y el cumplimiento. |
 | **UAT** | Aceptación de Usuario | *User Acceptance Testing* (fase final de pruebas). |
+
+---
+
+## Expanded Vocabulary & Technical Glossaries
+
+### General & Technical Terms
+| English Term | Spanish | Context / Usage |
+| :--- | :--- | :--- |
+| **Make sure** | Asegurarse | *Make sure to backup the configuration before updating.* |
+| **Notes** | Billetes / Apuntes | En IT: *Release notes* (notas de versión) o *Technical notes*. |
+| **Purse** | Monedero | *Wallet* es más común para carteras cripto o billeteras físicas. |
+| **Both** | Ambos | *Both local and remote backups are required.* |
+| **Until** | Hasta | *The scan will run until all ports are identified.* |
+| **Move house** | Mudarse | En IT usamos **Migration** (e.g., *Migrating a VM*). |
+| **Relay** | Relevos / Retransmisión | **SMTP Relay** o **SMB Relay** (técnica de ataque). |
+| **Injured** | Lesionado / Herido | Referido a personas. Para hardware usamos **Damaged**. |
+| **Rely (on)** | Confiar / Depender | *We rely on automated scripts for vulnerability detection.* |
+
+### Word Formation & Deep Dive (??)
+
+* **Childhood / Child:** Infancia / Niño. En entornos de sistemas, usamos **Child Process** para referirnos a un proceso derivado de un proceso padre (*Parent Process*).
+* **Arrival:** Llegada. Muy común en análisis de tráfico de red: **Packet arrival rate**.
+* **Acceptance:** Aceptación. Fundamental en el ciclo de vida del software: **UAT** (*User Acceptance Testing*).
+* **Involvement / Involved:** Implicación / Involucrado. Se usa para describir el alcance de un usuario o sistema en un incidente de seguridad.
+* **Consciousness:** Consciencia / Conocimiento.
+* **Hopeful / Hopeless:** Optimista (con esperanza) / Desesperanzado (sin solución). *A hopeless case* sería un sistema sin posibilidad de recuperación (RTO fallido).
+* **Threaten / Threatening:** Amenazar / Amenazante. Concepto clave para identificar **Threat Actors** (actores de amenazas) en el CJCA.
+
+---
+
+### 💡 Mentor Note: False Friends & Common Errors
+* **Rely vs Relay:** * *Rely* es un verbo de confianza (confiar en una herramienta).
+    * *Relay* es un sustantivo/verbo de transmisión (retransmitir un paquete o señal).
+* **Friendly:** Recuerda que es un adjetivo. Para que sea profesional en GitHub, úsalo como: *"User-friendly documentation"* o *"A friendly interface"*.
